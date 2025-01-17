@@ -86,13 +86,13 @@ The sniffer match object can be changed in its initialization in case you don't 
 
 ```ts
 let sniffer = new Sniffer();
-sniffer.levenshteinDistance = 2
-sniffer.doLevenshteinMatch = true
-sniffer.hammingDistance = 2
-sniffer.doHammingMatch = true
-sniffer.jaroWinklerDistance = 0.8
-sniffer.doJaroWinklerMatch = true
-sniffer.doInnerMatch = true
+sniffer.levenshteinDistance = 2;
+sniffer.doLevenshteinMatch = true;
+sniffer.hammingDistance = 2;
+sniffer.doHammingMatch = true;
+sniffer.jaroWinklerDistance = 0.8;
+sniffer.doJaroWinklerMatch = true;
+sniffer.doInnerMatch = true;
 sniffer.caseSensitive = false);
 ```
 

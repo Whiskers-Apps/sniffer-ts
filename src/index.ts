@@ -1,6 +1,6 @@
-import "./contain";
-import "./hamming";
-import "./inner";
-import "./jaro_winkler";
-import "./levenshtein";
-import "./sniffer";
+export * from "./contain";
+export * from "./hamming";
+export * from "./inner";
+export * from "./jaro_winkler";
+export * from "./levenshtein";
+export * from "./sniffer";
