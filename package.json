@@ -23,7 +23,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Whiskers-Apps/sniffer-ts"
+    "url": "git+https://github.com/Whiskers-Apps/sniffer-ts.git"
   },
   "bugs": {
     "url": "https://github.com/Whiskers-Apps/sniffer-ts/issues"
